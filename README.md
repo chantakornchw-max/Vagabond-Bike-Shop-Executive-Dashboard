@@ -26,6 +26,8 @@ Vagabond's Bike Shop's database consists of three tables: fact_sales, dim_custom
 ## Executive Summary
 The Vagabond's Bike Shop dashboard reveals a period of hyper-growth and significant strategic shifts between 2011 and 2013. The business successfully transitioned from a high-value/low-volume model to a massive high-volume market expansion.
 
+![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/d16ba2716de6a0647b5e470f6643b470cb9f4b73/Executive%20Dashboard.png)
+
 Key Financial Highlights (2013 Performance):
 
 ● Exceptional Growth: Achieved a 179.77% Year-over-Year (YoY) revenue growth, reaching a total annual revenue of $16.34M.
@@ -43,6 +45,8 @@ The Growth Engine:
 ● Order Volume Surge: The most significant driver was a +551.18% jump in total orders (from 3,269 to 21,287), confirming a massive expansion in market reach.
 
 ● Strategic Growth (+179.77%): This surge in volume directly fueled the 179.77% YoY revenue growth, even as the business transitioned to a more competitive Average Order Value (AOV) of $767.83.
+
+![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/fc601043158542a96d787d80dcf0f643cfcfe171/Quarterly%20Revenue%20Performance%20Trends.png)
 
 ## Strategic Recommendations
 
