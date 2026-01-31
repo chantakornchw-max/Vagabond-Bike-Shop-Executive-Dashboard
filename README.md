@@ -35,6 +35,17 @@ The project utilizes a Star Schema architecture to organize data for high-perfor
 
 ![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/bdffbed35cd0eb659104b0d2304172ac88600020/Star%20Schema.png)
 
+● Key Analytical Measures (DAX)
+The dashboard's intelligence is powered by custom DAX measures designed for high accuracy and robust error handling. By utilizing SUMX for precise row-level revenue calculations and SAMEPERIODLASTYEAR for accurate year-over-year comparisons, the model establishes a solid foundation for tracking the shop's hyper-growth phase. Furthermore, the implementation of the DIVIDE function for critical metrics like YoY Growth % and Average Order Value (AOV) ensures dashboard stability by preventing "Division by Zero" errors, providing clean and reliable insights for executive decision-making.
+
+Total Revenue = SUMX(Sales, Sales[price]*Sales[quantity])
+
+Previous Year Revenue = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(DateDim[Date]))
+
+YoY Growth % = DIVIDE(([Total Revenue]-[Previous Year Revenue]), [Previous Year Revenue])
+
+AOV = DIVIDE(SUM(Sales[sales_amount]), DISTINCTCOUNT('Sales'[order_number]))
+
 ## Executive Summary
 The Vagabond's Bike Shop dashboard reveals a period of hyper-growth and significant strategic shifts between 2011 and 2013. The business successfully transitioned from a high-value/low-volume model to a massive high-volume market expansion.
 
