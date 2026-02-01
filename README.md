@@ -61,13 +61,15 @@ Key Financial Highlights (2013 Performance):
 
 ● Best-selling Products: Mountain Bikes ($6.34M) and Road Bikes ($5.2M) remain the highest revenue-generating categories, anchoring the shop's market position.
 
-![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/5d02384b93b6fac0e7c3ee5aabe56f6acf311de5/YoY%20Growth.png)
+![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/67130efe6faacd1fa52512603df6e1b10ef72ec6/YoY%25.png)
 
 The Growth Engine:
 
-● Order Volume Surge: The most significant driver was a +551.18% jump in total orders (from 3,269 to 21,287), confirming a massive expansion in market reach.
+● The most significant driver was a +551.18% jump in total orders (from 3,269 to 21,287), confirming a massive expansion in market reach.
 
-● Strategic Growth (+179.77%): This surge in volume directly fueled the 179.77% YoY revenue growth, even as the business transitioned to a more competitive Average Order Value (AOV) of $767.83.
+● The analysis reveals a pivot from a bike-only model in 2011 to a diversified retail strategy in 2013. Revenue from Accessories and Clothing surged to nearly $1M combined, representing a massive expansion in product offerings.
+
+● While total orders jumped by 551.18%, the Average Order Value (AOV) settled at $767.83. This decrease is a direct result of selling a higher volume of lower-priced products (accessories/clothing), which successfully increased customer touchpoints and overall market reach.
 
 ![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/fc601043158542a96d787d80dcf0f643cfcfe171/Quarterly%20Revenue%20Performance%20Trends.png)
 
