@@ -61,7 +61,7 @@ Key Financial Highlights (2013 Performance):
 
 ● Mountain Bikes ($6.34M) and Road Bikes ($5.2M) remain the highest revenue-generating categories, anchoring the shop's market position.
 
-![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/00c39111b118722907cd17c070e073bd66ca5ad4/YoY%20%25.png)
+![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/e9b3ce82442e2b072e5211fd9813d3bfeae1e843/yoy%25.png)
 
 The Growth Engine:
 
