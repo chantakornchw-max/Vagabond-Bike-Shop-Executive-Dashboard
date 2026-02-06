@@ -23,7 +23,7 @@ Vagabond's Bike Shop's database consists of three tables: fact_sales, dim_custom
 ![Image Alt](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/4d9e59ad7dfc2997fc8d5cfd97eefdcba6234810/Vagabond's%20Bike%20Shop's%20database.png)
 
 ● Data Transformation (SQL):
-Data was extracted and refined using SQL to ensure only the most accurate and relevant information reached the visualization stage. Key transformation steps included filtering out incomplete records from 2010 and 2014, as well as performing feature engineering to calculate precise customer age groups. The complete SQL scripts detailing the extraction, cleaning, and filtering logic are available in the /SQL_Scripts directory of this repository.
+Data was extracted and refined using SQL to ensure only the most accurate and relevant information reached the visualization stage. Key transformation steps included filtering out incomplete records from 2010 and 2014, as well as performing feature engineering to calculate precise customer age groups. The complete SQL scripts detailing the extraction, cleaning, and filtering logic are available in [SQL_Scripts.sql](https://github.com/chantakornchw-max/Vagabond-Bike-Shop-Executive-Dashboard/blob/e5d26c6d16508c3742e085a62ecbd90c3e0f237b/SQL_Scripts.sql)
 
 ● Custom Date Dimension (DAX):
 A custom Date Dimension table was developed using DAX to serve as the structural backbone for advanced Time Intelligence and dynamic reporting. This logic enables the dashboard to perform precise temporal calculations, such as YoY Growth % and Previous Year Sales, which are critical for tracking the shop's expansion.
